@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Draconic Host](README.md)
+* [😄 Draconic Host](README.md)
 
 ## Getting started
 
